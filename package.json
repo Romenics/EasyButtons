@@ -1,0 +1,33 @@
+{
+    "name": "easybuttons",
+    "version": "1.3.1",
+    "displayName": "Easy Buttons",
+    "description": "Add buttons to your inspector in Unity super easily with this simple attribute.",
+    "keywords": [
+        "button",
+        "editor",
+        "inspector"
+    ],
+    "author": {
+        "name": "Romenics",
+        "url": "https://discord.com/invite/celestialcommand"
+    },
+	
+	"type": "template",
+	"documentationUrl": "https://github.com/Romenics/EasyButtons/blob/main/README.md",
+	"changelogUrl": "https://github.com/Romenics/EasyButtons/blob/main/CHANGELOG.md",
+    "samples": [
+        {
+            "displayName": "Buttons Example",
+            "path": "Samples~/ButtonsExample"
+        },
+        {
+            "displayName": "Custom Editor Buttons Example",
+            "path": "Samples~/CustomEditorButtonsExample"
+        },
+        {
+            "displayName": "Scriptable Object Example",
+            "path": "Samples~/ScriptableObjectExample"
+        }
+    ]
+}
